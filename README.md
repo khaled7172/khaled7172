@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khaled7172
-- 👀 I’m interested in coding
+- 👀 I’m interested in Data Strcuture and algorithms,AI,and Cyber Security
 - 🌱 I’m currently learning css and javascript
 - 💞️ I’m looking to collaborate on internships or anything interesting
 - 📫 How to reach me khaledhmmddd123@gmail.com
