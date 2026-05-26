@@ -1,4 +1,4 @@
-- Hi, I’m khaled hammoud
+- Hi, I’m khaled hammoud and i am a 42Beirut Student
 - I’m interested in Backend and CyberSecurity
 - Reach me on khaledhmmddd123@gmail.com
 <!---
