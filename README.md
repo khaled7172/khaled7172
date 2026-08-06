@@ -11,7 +11,7 @@ Backend-leaning software developer with a focus on low-level systems and securit
 ## Featured work
 - **[RAG-against-the-machine](https://github.com/khaled7172/RAG-against-the-machine)** — a Retrieval-Augmented Generation system that answers questions about the vLLM codebase, using BM25 lexical search, Reciprocal Rank Fusion, and an opt-in semantic/hybrid retrieval layer, grounded through a local Qwen3 LLM
 - **[Libft](https://github.com/khaled7172/Libft)** — core C stdlib functions rebuilt from scratch
-- **[push_swap](https://github.com/khaled7172/push_swap)** — sorting algorithm with a stack-based data structure, optimized for minimal moves
+- **[push_swap](https://github.com/khaled7172/push_swap)** — stack-sorting program with four strategies (simple, chunk-based, radix), selected adaptively via a calculated disorder metric, plus a benchmark mode reporting operation count and complexity
 
 ## Tech stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
