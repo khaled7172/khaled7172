@@ -23,3 +23,8 @@ Backend-leaning software developer with a focus on low-level systems and securit
 
 ---
 *Currently exploring: low-level systems programming and security fundamentals.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaled7172/khaled7172/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khaled7172/khaled7172/output/github-contribution-grid-snake.svg">
+</picture>
